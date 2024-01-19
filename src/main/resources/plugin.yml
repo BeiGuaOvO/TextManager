@@ -1,0 +1,4 @@
+name: TextManager
+version: '${project.version}'
+main: github.textmanager.TextManager
+api-version: '1.20'
