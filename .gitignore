@@ -1,0 +1,7 @@
+/.idea
+/testServer
+/target
+/buildTools
+/JavaDoc
+*.iml
+*.jar

@@ -2,3 +2,4 @@ name: TextManager
 version: '${project.version}'
 main: github.textmanager.TextManager
 api-version: '1.20'
+author: 北瓜sakura

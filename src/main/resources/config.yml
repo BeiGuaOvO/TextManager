@@ -1,0 +1,6 @@
+#是否启用消息转发
+enable-relay: false
+#消息转发的服务器列表
+relay-servers:
+  -
+  -
